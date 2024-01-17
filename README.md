@@ -24,10 +24,12 @@ npm install
 
 ## Run
 
-To run the program:
+### To run the program:
+
 npx tsx InvitationSystem.ts
 
-To view the queue of invitees:
+### To subscribe to the queue of invitees:
+
 node ./subscriber.js
 
 ## Using RabbitMQ as a broker system
