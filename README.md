@@ -14,7 +14,7 @@ This TypeScript program identifies and invites customers located within a specif
 
    ```bash
    git clone [repository_url]
-   cd Invitation-System
+   cd FintechCo-Customer-Invitation-System
    Install dependencies:
    ```
 
