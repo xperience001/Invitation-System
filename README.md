@@ -14,7 +14,7 @@ This TypeScript program identifies and invites customers located within a specif
 
    ```bash
    git clone [repository_url]
-   cd customer-invitation-system
+   cd Invitation-System
    Install dependencies:
    ```
 
@@ -26,11 +26,19 @@ npm install
 
 ### To run the program:
 
-npx tsx InvitationSystem.ts
+1. Run the program:
+
+   ```bash
+   npx tsx InvitationSystem.ts
+   ```
 
 ### To subscribe to the queue of invitees:
 
-node ./subscriber.js
+1. Subscribe to the program:
+
+   ```bash
+   node ./subscriber.js
+   ```
 
 ## Using RabbitMQ as a broker system
 
